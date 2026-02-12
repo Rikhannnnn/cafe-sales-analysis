@@ -24,4 +24,4 @@ Dataset yang digunakan berisi data transaksi kotor yang meliputi:
 ## Business Recommendations
 - **Bundling Strategy**: Menggabungkan "Kopi" (Traffic Maker) dengan "Cake" untuk meningkatkan penjualan Cake.
 - **Weekend Promo**: Memberikan cashback khusus pengguna Digital Wallet di hari Jumat-Minggu.
-- **SOP Perbaikan Data**: Mewajibkan kasir mengisi kolom pembayaran untuk mengurangi data 'Unknown'.
+- **SOP Perbaikan Data**: Memperbaiki SOP _Human Errors_ untuk mengurangi data 'Unknown'.
